@@ -1,5 +1,5 @@
 #Declare Variables
-$SearchDirectory = "C:\Users\Max\Dropbox\IFTTT"
+$SearchDirectory = "D:\Clouds\Dropbox\IFTTT"
 $SleepTime = 5
 
 #Removes the file from the directory, in case the file was not deleted. Sets the error action in case the file is not present.
